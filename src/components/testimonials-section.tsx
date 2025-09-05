@@ -58,7 +58,7 @@ export function TestimonialsSection() {
 
                 <div className="relative mb-6">
                   <Quote className="absolute -top-2 -left-2 w-8 h-8 text-primary/20" />
-                  <p className="text-foreground leading-relaxed pl-6">"{testimonial.content}"</p>
+                  <p className="text-foreground leading-relaxed pl-6">&quot;{testimonial.content}&quot;</p>
                 </div>
 
                 <div className="flex items-center gap-3">

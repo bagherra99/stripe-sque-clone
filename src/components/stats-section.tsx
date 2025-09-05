@@ -34,7 +34,7 @@ export function StatsSection() {
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4 text-balance">Trusted by Legal Professionals Worldwide</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
-            Join hundreds of law firms that have transformed their revenue recovery with Sque's AI-powered system.
+            Join hundreds of law firms that have transformed their revenue recovery with Sque&apos;s AI-powered system.
           </p>
         </div>
 

@@ -14,12 +14,12 @@ export function MaintenanceMode() {
           </div>
           <CardTitle className="text-2xl font-bold">Service Temporarily Unavailable</CardTitle>
           <CardDescription className="text-muted-foreground">
-            We're currently performing scheduled maintenance to improve your experience.
+            We&apos;re currently performing scheduled maintenance to improve your experience.
           </CardDescription>
         </CardHeader>
         <CardContent>
           <p className="text-sm text-muted-foreground mb-6">
-            We'll be back online shortly. Thank you for your patience.
+            We&apos;ll be back online shortly. Thank you for your patience.
           </p>
           <Button variant="outline" onClick={() => window.location.reload()} className="w-full">
             Try Again

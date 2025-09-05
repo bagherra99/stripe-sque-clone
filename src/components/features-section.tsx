@@ -52,7 +52,7 @@ export function FeaturesSection() {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto text-pretty">
-            Sque's comprehensive platform ensures every minute of billable work is captured, tracked, and converted into
+            Sque&apos;s comprehensive platform ensures every minute of billable work is captured, tracked, and converted into
             revenue automatically.
           </p>
         </div>

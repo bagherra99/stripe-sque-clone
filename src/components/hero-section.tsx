@@ -24,7 +24,7 @@ export function HeroSection() {
                 <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                   Billable Time
                 </span>{" "}
-                You've Already Earned
+                You&apos;ve Already Earned
               </h1>
 
               <p className="text-xl text-muted-foreground text-pretty max-w-2xl">
@@ -110,7 +110,7 @@ export function HeroSection() {
                     <Badge variant="outline">Processing</Badge>
                   </div>
                   <div className="bg-muted rounded-lg p-3 text-sm">
-                    This email from mike@lawfirm.com with subject "Meeting with Swapnil Mavar about dispute case" has
+                    This email from mike@lawfirm.com with subject &quot;Meeting with Swapnil Mavar about dispute case&quot; has
                     been processed and added to the timeline for tracking purposes.
                   </div>
                 </div>
